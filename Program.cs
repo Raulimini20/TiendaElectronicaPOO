@@ -5,7 +5,7 @@ namespace TiendaElectronicaPOO
 {
     class Program
     {
-        // Clase Producto dentro de Program
+        // Clase Producto dentro de Programa
         public class Producto
         {
             public string Nombre { get; set; }
